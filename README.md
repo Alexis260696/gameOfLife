@@ -1,5 +1,5 @@
 # game of life
-proyect that implement the game of life by Conway in python.
+Python Implementation Project: Conway's Game of Life, following Conway's stylistic and procedural guidelines. This repository showcases meticulously crafted and well-documented code, offering an immersive and educational exploration into the intricate realm of cellular automata.
 
 ## instalation
 to install the dependencies, run :
